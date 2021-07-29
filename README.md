@@ -1,7 +1,7 @@
-# artist
-Artistic endeavors of MissRobinC
+# Miss Robin 
+Artistic endeavors of Robin Crank.
 
-* Personal Art projects
-* Community Art projects
+* My Art
+* Community 
 * News & Events
 * About Me
